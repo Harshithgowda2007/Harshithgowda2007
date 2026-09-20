@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Harshith 👋
 
-<!--
-**Harshithgowda2007/Harshithgowda2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CSE (Data Science) Student | 2nd Year at BIT
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering (Data Science) student interested in **Software Development, Data Science, and Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **Data Structures & Algorithms**
+* 💻 Practicing programming with **C, Java, and Python**
+* 📚 Improving my knowledge of **OOP, DSA, and Computer Science fundamentals**
+* 🚀 Building projects to improve my practical development skills
+* 🎯 Preparing for **internships, hackathons, and campus placements**
+* 🤝 Open to collaborating on interesting projects
+
+### 🛠️ Languages
+
+* C
+* Java
+* Python
+
+### 📌 Current Focus
+
+**DSA → OOP → Projects → GitHub → Hackathons → Placements**
+
+### 📫 Connect with me
+
+* 💼 LinkedIn: 
+* 🧑‍💻 LeetCode: 
+* 🐙 GitHub: https://github.com/Harshithgowda2007 
+---
+
+⭐ Thanks for visiting my profile!
+
