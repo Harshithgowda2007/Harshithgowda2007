@@ -23,7 +23,7 @@ I'm a Computer Science and Engineering (Data Science) student interested in **So
 
 ### 📫 Connect with me
 
-* 💼 LinkedIn: 
+* 💼 LinkedIn: https://www.linkedin.com/in/harshith-v-p-3a39363b7
 * 🧑‍💻 LeetCode: https://leetcode.com/u/Harshith360 
 * 🐙 GitHub: https://github.com/Harshithgowda2007 
 ---
