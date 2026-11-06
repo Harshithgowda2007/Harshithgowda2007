@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./ASCII%20Portrait%20Reveal%20Animation%20(1.5x).gif"
        width="400"
-        height="250"
+        height="400"
        alt="Harshith Animated ASCII Portrait">
 </p>
 
