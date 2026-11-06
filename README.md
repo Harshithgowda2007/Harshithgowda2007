@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="ascii-portrait.png" width="700" alt="Harshith ASCII Portrait">
+</p>
+
+<h1 align="center">Hi there, I'm Harshith 👋</h1>
+
+
+
 # Hi there, I'm Harshith 👋
 
 ### 🎓 CSE (Data Science) Student | 2nd Year at BIT
