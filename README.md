@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="./ascii-portrait.png" width="700" alt="ASCII Portrait">
+  <img src="./ascii-portrait.png" width="700" alt="Harshith ASCII Portrait">
 </p>
 
 <h1 align="center">Hi there, I'm Harshith 👋</h1>
 
-
-# Hi there, I'm Harshith 👋
-
-### 🎓 CSE (Data Science) Student | 2nd Year at BIT
+ 🎓 CSE (Data Science) Student | 2nd Year at BIT
 
 I'm a Computer Science and Engineering (Data Science) student interested in **Software Development, Data Science, and Problem Solving**.
 
