@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./ascii-portrait.png" width="700" alt=" ascii-portrait.png">
+  <img src="PASTE_RAW_URL_HERE" width="700" alt="Harshith ASCII Portrait">
 </p>
-
-<h1 align="center">Hi there, I'm Harshith 👋</h1>
 
  🎓 CSE (Data Science) Student | 2nd Year at BIT
 
