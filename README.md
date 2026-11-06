@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./ASCII%20Portrait%20Reveal%20Animation%20(1.5x).gif"
-       width="700"
+       width="400"
        alt="Harshith Animated ASCII Portrait">
 </p>
 
