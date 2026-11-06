@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="PASTE_RAW_URL_HERE" width="700" alt="Harshith ASCII Portrait">
+  <img src="https://raw.githubusercontent.com/Harshithgowda2007/Harshithgowda2007/main/%20ascii-portrait.png"
+       width="700"
+       alt="Harshith ASCII Portrait">
 </p>
 
+<h1 align="center">Hi there, I'm Harshith 👋</h1>
  🎓 CSE (Data Science) Student | 2nd Year at BIT
 
 I'm a Computer Science and Engineering (Data Science) student interested in **Software Development, Data Science, and Problem Solving**.
