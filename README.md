@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshithgowda2007/Harshithgowda2007/main/%20ascii-portrait.png"
+  <img src="./ASCII%20Portrait%20Reveal%20Animation%20(1.5x).gif"
        width="700"
-       alt="Harshith ASCII Portrait">
+       alt="Harshith Animated ASCII Portrait">
 </p>
 
 <h1 align="center">Hi there, I'm Harshith 👋</h1>
