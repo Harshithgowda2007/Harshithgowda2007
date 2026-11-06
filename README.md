@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ascii-portrait.png" width="700" alt="Harshith ASCII Portrait">
+  <img src="./ascii-portrait.png" width="700" alt=" ascii-portrait.png">
 </p>
 
 <h1 align="center">Hi there, I'm Harshith 👋</h1>
