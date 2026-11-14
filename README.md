@@ -1,8 +1,6 @@
 <p align="center">
-  <img src=" ascii-portrait.png"
-       width="400"
-        height="400"
-       alt="Harshith Animated ASCII Portrait">
+  <img src="./ascii-portrait.png" width="700" alt="ASCII Portrait">
+  <img src="./ascii-portrait.png" width="700" alt="Harshith ASCII Portrait">
 </p>
 
 <h1 align="center">Hi there, I'm Harshith 👋</h1>
