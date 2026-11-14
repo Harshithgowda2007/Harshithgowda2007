@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ASCII%20Portrait%20Reveal%20Animation%20(1.5x).gif"
+  <img src=" ascii-portrait.png"
        width="400"
         height="400"
        alt="Harshith Animated ASCII Portrait">
