@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./ascii-portrait.png" width="700" alt="ASCII Portrait">
   <img src="./ascii-portrait.png" width="700" alt="Harshith ASCII Portrait">
 </p>
 
